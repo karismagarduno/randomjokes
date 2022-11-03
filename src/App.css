@@ -1,0 +1,13 @@
+*{
+  background-image:url(clown.png);
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  font-size: 50px;
+}
+#new-joke{
+  background-color: white;
+  color: white;
+  border: 20px solid red;
+}
